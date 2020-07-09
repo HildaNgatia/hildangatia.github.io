@@ -4,9 +4,7 @@ You can use the [editor on GitHub](https://github.com/HildaNgatia/hildangatia.gi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-I mainly use R markdown for my projects and my school assignements.
-
-Here I shall create a collection of all the data analyses I have done since the beginning of my Master's program.
+I mainly use R markdown for my projects and my school assignements. Here I shall create a collection of all the data analyses I have done since the beginning of my Master's program.
 
 Feel free to try some of them out!
 
