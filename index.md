@@ -3,7 +3,7 @@
 My name is Hilda Ngatia.  
 
 ```markdown
-![Image](DSC_9454)
+![Image](DSC_9454.png)
 ```
 
 I am a 25 year old intelligent, motivated and self-driven individual whose only aim is to strive to do better.   
