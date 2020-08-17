@@ -2,10 +2,6 @@
 
 My name is Hilda Ngatia.  
 
-```markdown
-![Image](DSC_9454.png)
-```
-
 I am a 25 year old intelligent, motivated and self-driven individual whose only aim is to strive to do better.   
 
 Professionally, I am a statistician and I am taking my master’s degree in Biometry at University of Nairobi. My goal is to use the knowledge I have acquired in class and be able to apply it in real life situations.  
@@ -26,55 +22,20 @@ I am always ready to help and serve in any way I can.
 
 Last but not least, I never leave any stone unturned.
 
+## The Pandemic
 
+In December 2019, COVID-19 coronavirus was first identified in the Wuhan region of China. By March 11, 2020, the World Health Organization (WHO) categorized the COVID-19 outbreak as a pandemic. A lot has happened in the months in between with major outbreaks in Iran, South Korea, and Italy.
 
+We know that COVID-19 spreads through respiratory droplets, such as through coughing, sneezing, or speaking. 
+But, how quickly did the virus spread across the globe? And, can we see any effect from country-wide policies, like shutdowns and quarantines? 
 
+Fortunately, organizations around the world have been collecting data so that governments can monitor and learn from this pandemic. 
+Notably, the Johns Hopkins University Center for Systems Science and Engineering created a publicly available data repository to consolidate this data from sources like the WHO, the Centers for Disease Control and Prevention (CDC), and the Ministry of Health from multiple countries.
 
+In this notebook, you will visualize COVID-19 data from the first several weeks of the outbreak to see at what point this virus became a global pandemic.
 
-
-
-
-
-
-
-## Welcome to my GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/HildaNgatia/hildangatia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-I mainly use R markdown for my projects and my school assignements. Here I shall create a collection of all the data analyses I have done since the beginning of my Master's program.
-
-Feel free to try some of them out!
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+``` markdown
+install.packages("readr")
+install.packages("ggplot2")
+install.packages("dplyr")
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HildaNgatia/hildangatia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
