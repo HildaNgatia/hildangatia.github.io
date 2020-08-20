@@ -23,6 +23,5 @@ I am always ready to help and serve in any way I can.
 Last but not least, I never leave any stone unturned.
 
 Here is a link to some of my work
-``` markdown
-!link [https://rpubs.com/Hilda_Ngatia/650789]
-```
+
+ This represents [Some visualization of Covid data](https://rpubs.com/Hilda_Ngatia/650789)
